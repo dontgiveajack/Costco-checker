@@ -1,4 +1,4 @@
-# Costco-checker
+# Costco in-stock checker
 Checks if an item on Costco is in stock and get notified
 
 ## How to use:

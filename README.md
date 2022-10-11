@@ -1,5 +1,5 @@
 # Costco in-stock checker
-Checks if an item on Costco is in stock and get notified
+Checks if an item on Costco is in stock and get notified (requires twilio)
 
 ## How to use:
 
